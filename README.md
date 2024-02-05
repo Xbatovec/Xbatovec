@@ -1,4 +1,4 @@
-## Hi, I'm Xbatovec!
+## Hi, I'm David!
 * Average typescript, javascript and C# enjoyer
 * Full stack developer
 * Game developer
